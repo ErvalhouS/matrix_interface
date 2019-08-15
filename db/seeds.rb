@@ -5,3 +5,4 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+Pass.create(phrase: 'Kans4s-i$-g01ng-by3-bye', username: 'Neo')
